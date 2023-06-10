@@ -1,4 +1,5 @@
 # Current Time Display
+![Example Image]()
 
 This HTML code is a simple web page that displays the current time and date using JavaScript. It utilizes the Bootstrap framework for styling.
 
