@@ -38,14 +38,3 @@ This code uses the following dependencies:
 
 The dependencies are included in the code through CDN (Content Delivery Network) links. They will be fetched from the provided URLs when the HTML file is loaded.
 
-## Authors
-
-This HTML code is provided as an example by OpenAI.
-
-## License
-
-This code is provided under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Feel free to use and modify this readme file as needed to suit your requirements.
