@@ -1,5 +1,5 @@
 # Current Time Display
-![Example Image]()
+![Example Image](https://github.com/aryanjais1234/date_time/blob/main/Screenshot%202023-06-11%20022043.png)
 
 This HTML code is a simple web page that displays the current time and date using JavaScript. It utilizes the Bootstrap framework for styling.
 
